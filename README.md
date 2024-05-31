@@ -25,10 +25,18 @@ This project was developed as part of my Python Development Internship at CodeCl
 - **spaCy:** For NLP
 
 
+Graphical User Interface:
 
+![GUI](https://github.com/YSKAA423/Assistant_with_UI/assets/131588511/c40d7d06-f98e-4ab3-932e-8ac14d92df1b)
+
+Interactions currently include:  text, response, timestamp
+
+![interactions](https://github.com/YSKAA423/Assistant_with_UI/assets/131588511/95510dd8-b644-47fc-9841-bdbaa88fa27b)
+
+Interactions may be updated later on to include components such as, entities and sentiment to conduct a more in--depth analysis.
 
 ## Contact
 - **CodeClause:** [CodeClause](https://www.linkedin.com/company/codeclause/)
 - **Your Name:** [Yaser Alshuaybat](https://www.linkedin.com/in/yaser-alshuaybat-611069268/)
 
-Project Link: [https://github.com/yourusername/voice-assistant](https://github.com/yourusername/voice-assistant)
+LinkedIn post: []()
